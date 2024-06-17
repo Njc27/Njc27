@@ -6,7 +6,7 @@ I'm a Boston-based Software Engineer with a Master's in Information Systems from
 
 ## 💼 Experience
 
-- **Web Developer Intern** at The Burnes Center, Northeastern University (Aug 2023 - Present)
+- **Web Developer Intern** at The Burnes Center, Northeastern University (Aug 2023 - May 2024)
   - Enhanced user engagement and subscriptions through innovative web development and SEO optimizations.
 
 - **Software Developer** at Infosys Limited, contracted with Pfizer Technologies (Mar 2021 – Jun 2022)
